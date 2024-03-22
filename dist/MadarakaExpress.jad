@@ -1,0 +1,8 @@
+MIDlet-1: MadarakaExpress, , MadarakaExpress
+MIDlet-Jar-Size: 1714
+MIDlet-Jar-URL: MadarakaExpress.jar
+MIDlet-Name: MadarakaExpress
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
